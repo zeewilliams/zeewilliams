@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zee! <br/><a href="www.linkedin.com/in/zee-williams">Cybersecurity Analyst</a>, <a href="https://youtube.com/@ziphercyber?si=sfsSsL6Syl9g4t9p">YouTuber</a></h1>
+<h1>Hi, I'm Zee! <br/><a href="www.linkedin.com/in/zee-williams">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
