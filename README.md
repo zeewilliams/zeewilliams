@@ -1,17 +1,42 @@
-<h1>Hi, I'm Zee! <br/><a href="www.linkedin.com/in/zee-williams">Cybersecurity Analyst</a>
+<h1>Hi, I'm Zee! <br/><a href="https://www.linkedin.com/in/zee-williams">Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Investigating Potential Infections On A Network</b>
-  - [Host network and firewalls](https://youtu.be/mKJiWGqkMHE)
-- <b>Identifying cyber attacks and how to remediate them</b>
-  - [Blue Team Walkthrough](https://youtu.be/dpKnmDpK83I) </b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
-- <b>Nmap and Wireshark</b>
-  - [Identifying vulnerabilities and threats](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/zwilli26_wgu_edu/EYZlQUwJ-2tKojHR7AdCRp4BcEZFL16iccsPQaD6UW4HZA?e=wJ0MF0)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
+<!-- 1. Workstation VM Deployment -->
+- <b>Workstation VM Deployment (Marvel Lab)</b>  
+  - [View Repository](https://github.com/zeewilliams/workstation-vm-deployment)  
+  - Automated deployment of Windows 10 VMs into a Marvel-themed Active Directory domain using PowerShell.  
+  - <img src="https://github.com/zeewilliams/workstation-vm-deployment/blob/main/images/vm-deployment-1.png" alt="VM Deployment Screenshot" width="400"/>  
+  <br/>
+
+<!-- 2. Marvel-Themed Domain Controller Lab -->
+- <b>Marvel-Themed Domain Controller Lab</b>  
+  - [View Repository](https://github.com/zeewilliams/marvel-domain-controller-lab)  
+  - Built a Windows Server Domain Controller with Marvel-themed users, GPOs, and realistic enterprise policies.  
+  - <img src="https://github.com/zeewilliams/marvel-domain-controller-lab/blob/main/images/domain-controller-1.png" alt="Domain Lab Screenshot" width="400"/>  
+  <br/>
+
+<!-- 3. Threat Intelligence Tools (TryHackMe) -->
+- <b>THM Threat Intelligence Tools</b>  
+  - [View Repository](https://github.com/zeewilliams/threat-intelligence-lab)  
+  - Used tools like VirusTotal, AbuseIPDB, and Maltrail to hunt threats and correlate IOCs with MITRE ATT&CK.  
+  - <img src="https://github.com/zeewilliams/threat-intelligence-lab/blob/main/images/ti-lab-1.png" alt="Threat Intel Screenshot" width="400"/>  
+  <br/>
+
+<!-- 4. Simulated SOC & Honeynet Deployment in Azure -->
+- <b>Simulated SOC & Honeynet in Azure</b>  
+  - [View Repository](https://github.com/zeewilliams/azure-soc-honeynet)  
+  - Built SOC infrastructure in Azure with Microsoft Sentinel, Log Analytics, and KQL-based alerting.  
+  - <img src="https://github.com/zeewilliams/azure-soc-honeynet/blob/main/images/soc-lab-1.png" alt="Azure SOC Screenshot" width="400"/>  
+  <br/>
+
+<!-- 5. Malware Incident Response Lab -->
+- <b>Malware Incident Response Lab</b>  
+  - [View Repository](https://github.com/zeewilliams/malware-incident-response-lab)  
+  - Practiced Tier 1 SOC protocols using Defender, Sysinternals, and Event Viewer in a malware simulation.  
+  - <img src="https://github.com/zeewilliams/malware-incident-response-lab/blob/main/images/malware-lab-1.png" alt="Malware Lab Screenshot" width="400"/>  
+  <br/>
+
     
 <h2>👨🏽‍🎓 Certifications:</h2>
 
