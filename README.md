@@ -1,4 +1,10 @@
-<h1>Hi, I'm Zee! <br/><a href="https://www.linkedin.com/in/zee-williams">Cybersecurity Analyst</a></h1>
+# Hi, I'm Zee! 👋
+
+Welcome to my GitHub profile! I'm a cybersecurity analyst with a strong foundation in information security, network defense, and incident response. With hands-on experience deploying secure systems, analyzing threats, and building security-first infrastructure, I’m passionate about protecting digital environments and continuously learning.
+
+This space showcases a collection of my cybersecurity lab projects — each designed to simulate real-world enterprise environments, enhance technical proficiency, and demonstrate my ability to apply cybersecurity principles in practice.
+
+Feel free to explore my repositories below and connect with me on [LinkedIn](https://www.linkedin.com/in/zee-williams) if you'd like to collaborate or learn more about my work!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
