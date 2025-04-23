@@ -73,37 +73,31 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 </ul>
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>💼 Projects I Want to Build Next</h2>
 
-- [How to pass your First Certification](https://youtu.be/Eyg-KGCcHDo?si=jFpW22qpwiCq--M2)
-- [My Bachelors Degree Journey WGU](https://youtu.be/lXsq2fkSKGk)
-- [How to Structure your cybersecurity resume](https://youtu.be/D37vv9HKbvc)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<ul>
+  <li>🔐 Cloud-Based SIEM Dashboard using ELK Stack</li>
+  <li>🧪 Phishing Simulation Lab with GoPhish + Azure AD</li>
+  <li>📦 Threat Detection Rules Library for Windows Event Logs</li>
+  <li>🎮 Capture-the-Flag Scoring App with Python & Flask</li>
+  <li>🛡️ Personal Threat Intel Feed Aggregator</li>
+</ul>
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>🎯 Career Goals for 2025</h2>
 
-[twitter]: ()
-[youtube]: (https://youtube.com/@ziphercyber?si=sfsSsL6Syl9g4t9p)
-[instagram]: ()
-[linkedin]: www.linkedin.com/in/zee-williams
+<ul>
+  <li>💡 Transition into a full-time SOC Analyst or Security Engineer role</li>
+  <li>🧠 Complete CISSP certification</li>
+  <li>🏆 Speak at a local cybersecurity meetup or conference</li>
+  <li>📖 Publish technical blog content and walkthroughs monthly</li>
+  <li>⚙️ Launch a cybersecurity mentorship program for career switchers</li>
+</ul>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/View-My%20Resume-blue" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
