@@ -1,6 +1,6 @@
 # Hi, I'm Zee! 👋
 
-Welcome to my GitHub profile! I'm a cybersecurity analyst with a strong foundation in information security, network defense, and incident response. With hands-on experience deploying secure systems, analyzing threats, and building security-first infrastructure, I’m passionate about protecting digital environments and continuously learning.
+Welcome to my GitHub profile! I'm a cybersecurity graduate with a strong foundation in information security, network defense, and incident response. With hands-on experience deploying secure systems, analyzing threats, and building security-first infrastructure, I’m passionate about protecting digital environments and continuously learning.
 
 This space showcases a collection of my cybersecurity lab projects — each designed to simulate real-world enterprise environments, enhance technical proficiency, and demonstrate my ability to apply cybersecurity principles in practice.
 
@@ -17,7 +17,7 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 
 <!-- 2. Marvel-Themed Domain Controller Lab -->
 - <b>Marvel-Themed Domain Controller Lab</b>  
-  - [View Repository](https://github.com/zeewilliams/-marvel-domain-controller-lab)  
+  - [View Repository](https://github.com/zeewilliams/marvel-domain-controller-lab)  
   - Built a Windows Server Domain Controller with Marvel-themed users, GPOs, and realistic enterprise policies.  
   - <img src="https://github.com/zeewilliams/marvel-domain-controller-lab/blob/main/images/domain-controller-1.png" alt="Domain Lab Screenshot" width="400"/>  
   <br/>
