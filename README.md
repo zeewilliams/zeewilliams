@@ -95,7 +95,7 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 </ul>
 
 <p>
-  <a href="https://github.com/zeewilliams/zeewilliams/blob/main/Zephaniah.Resume.IT.pdf" target="_blank">
+  <a href="https://github.com/zeewilliams/zeewilliams/blob/main/Zephaniah.Full.Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View-My%20Resume-blue" alt="Resume Badge" />
   </a>
 </p>
