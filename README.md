@@ -44,17 +44,34 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
   <br/>
 
     
-<h2>👨🏽‍🎓 Certifications:</h2>
+<h2>👨🏽‍🎓 Certifications</h2>
 
-  - [Security+](https://docs.google.com/document/d/1HeOHUIZxFqk9zfmVcPXB54glVlw2dnZDjksByYpE_Xo/edit?usp=sharing)
-  - [CySA+]()
-  - [Pentest+](https://docs.google.com/document/d/1whw7o0x8_796HkphFCB_KNCBxv_9aOyfkp7ObLDvZuM/edit?usp=sharing)
-  - [Casp+]()
-  - [Network+](https://docs.google.com/document/d/17zioZ4CvmvZQ5o11epvhZ_40Ht35fIrFk7Q8Y_JU5cc/edit?usp=sharing)
-  - [A+](https://docs.google.com/document/d/185vLoGjb9sRqkaZCnbwxHJJmwfBB8qPKhRY_XeZUwGw/edit?usp=sharing)
-  - [CISSP assoiciate of ISC2 SSCP]()
-  - [ITILv4](https://docs.google.com/document/d/1NfxS8g3mJs_otO60IE04zjM3WHIhHX95lQ8KusguLkI/edit?usp=sharing)
-  - [Linux Essentials](https://docs.google.com/document/d/1f0F40i5wu9xBOplE9rDHvTjZSg8495p2Ft7aGdMyP5E/edit?usp=sharing)
+<ul>
+  <li><b>CompTIA</b>
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1HeOHUIZxFqk9zfmVcPXB54glVlw2dnZDjksByYpE_Xo/edit?usp=sharing">Security+</a></li>
+      <li><a href="https://docs.google.com/document/d/1whw7o0x8_796HkphFCB_KNCBxv_9aOyfkp7ObLDvZuM/edit?usp=sharing">PenTest+</a></li>
+      <li><a href="https://docs.google.com/document/d/17zioZ4CvmvZQ5o11epvhZ_40Ht35fIrFk7Q8Y_JU5cc/edit?usp=sharing">Network+</a></li>
+      <li><a href="https://docs.google.com/document/d/185vLoGjb9sRqkaZCnbwxHJJmwfBB8qPKhRY_XeZUwGw/edit?usp=sharing">A+</a></li>
+    </ul>
+  </li>
+  <li><b>ISC²</b>
+    <ul>
+      <li><a href="#">SSCP</a></li>
+    </ul>
+  </li>
+  <li><b>AXELOS</b>
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1NfxS8g3mJs_otO60IE04zjM3WHIhHX95lQ8KusguLkI/edit?usp=sharing">ITIL v4 Foundation</a></li>
+    </ul>
+  </li>
+  <li><b>LPI</b>
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1f0F40i5wu9xBOplE9rDHvTjZSg8495p2Ft7aGdMyP5E/edit?usp=sharing">Linux Essentials</a></li>
+    </ul>
+  </li>
+</ul>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
