@@ -33,7 +33,7 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 - <b>Simulated SOC & Honeynet in Azure</b>  
   - [View Repository](https://github.com/zeewilliams/azure-soc-honeynet)  
   - Built SOC infrastructure in Azure with Microsoft Sentinel, Log Analytics, and KQL-based alerting.  
-  - <img src="https://github.com/zeewilliams/azure-soc-honeynet/blob/main/images/soc-lab-1.png" alt="Azure SOC Screenshot" width="400"/>  
+  - <img src="https://github.com/zeewilliams/azure-soc-honeynet/blob/main/azure-sentinel-map.png?raw=true" alt="Azure Sentinel RDP Map" width="500"/>  
   <br/>
 
 <!-- 5. Malware Incident Response Lab -->
