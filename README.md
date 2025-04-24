@@ -40,7 +40,7 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 - <b>Malware Incident Response Lab</b>  
   - [View Repository](https://github.com/zeewilliams/malware-incident-response-lab)  
   - Practiced Tier 1 SOC protocols using Defender, Sysinternals, and Event Viewer in a malware simulation.  
-  - <img src="https://github.com/zeewilliams/malware-incident-response-lab/blob/main/images/malware-lab-1.png" alt="Malware Lab Screenshot" width="400"/>  
+  - <img src="https://github.com/zeewilliams/malware-incident-response-lab/blob/main/microsoft-defender.png?raw=true" alt="Microsoft Defender Detection Log" width="400"/>  
   <br/>
 
     
