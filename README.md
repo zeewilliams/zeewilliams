@@ -22,11 +22,11 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
   - <img src="https://github.com/zeewilliams/marvel-domain-controller-lab/blob/main/images/domain-controller-1.png" alt="Domain Lab Screenshot" width="400"/>  
   <br/>
 
-<!-- 3. Threat Intelligence Tools (TryHackMe) -->
+<!-- 3. THM Threat Intelligence Tools -->
 - <b>THM Threat Intelligence Tools</b>  
   - [View Repository](https://github.com/zeewilliams/threat-intelligence-lab)  
   - Used tools like VirusTotal, AbuseIPDB, and Maltrail to hunt threats and correlate IOCs with MITRE ATT&CK.  
-  - <img src="https://github.com/zeewilliams/threat-intelligence-lab/blob/main/images/ti-lab-1.png" alt="Threat Intel Screenshot" width="400"/>  
+  - <img src="https://github.com/zeewilliams/threat-intelligence-lab/blob/main/THM-CLI.webp?raw=true" alt="THM CLI Screenshot" width="400"/>  
   <br/>
 
 <!-- 4. Simulated SOC & Honeynet Deployment in Azure -->
