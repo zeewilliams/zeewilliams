@@ -19,7 +19,7 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 - <b>Marvel-Themed Domain Controller Lab</b>  
   - [View Repository](https://github.com/zeewilliams/marvel-domain-controller-lab)  
   - Built a Windows Server Domain Controller with Marvel-themed users, GPOs, and realistic enterprise policies.  
-  - <img src="https://github.com/zeewilliams/marvel-domain-controller-lab/blob/main/images/domain-controller-1.png" alt="Domain Lab Screenshot" width="400"/>  
+  - <img src="https://github.com/zeewilliams/marvel-domain-controller-lab/blob/main/Marvel-Server.png?raw=true" alt="Marvel Domain Controller Screenshot" width="400"/>  
   <br/>
 
 <!-- 3. THM Threat Intelligence Tools -->
