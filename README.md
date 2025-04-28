@@ -8,11 +8,11 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!-- 1. Workstation VM Deployment -->
+<!-- 1. Workstation VM Deployment (Marvel Lab) -->
 - <b>Workstation VM Deployment (Marvel Lab)</b>  
   - [View Repository](https://github.com/zeewilliams/workstation-vm-deployment)  
   - Automated deployment of Windows 10 VMs into a Marvel-themed Active Directory domain using PowerShell.  
-  - <img src="https://github.com/zeewilliams/workstation-vm-deployment/blob/main/images/vm-deployment-1.png" alt="VM Deployment Screenshot" width="400"/>  
+  - <img src="https://github.com/zeewilliams/workstation-vm-deployment/blob/main/Users-Active%20Directory.png?raw=true" alt="Marvel Active Directory Users Screenshot" width="400"/>  
   <br/>
 
 <!-- 2. Marvel-Themed Domain Controller Lab -->
