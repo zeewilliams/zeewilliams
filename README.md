@@ -43,6 +43,13 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
   - <img src="https://github.com/zeewilliams/malware-incident-response-lab/blob/main/microsoft-defender.png?raw=true" alt="Microsoft Defender Detection Log" width="400"/>  
   <br/>
 
+  <!-- 6. Mitigating Attacks by Creating Rules Using Snort -->
+- <b>Mitigating Attacks by Creating Rules Using Snort</b>  
+  - [View Repository](https://github.com/zeewilliams/snort-ids-lab)  
+  - Deployed Snort on a virtual machine to detect and mitigate live simulated attacks from the TryHackMe challenge. Created and tuned custom IDS rules to identify malicious traffic, and improved detection accuracy through iterative testing.  
+  - <img src="https://github.com/zeewilliams/snort-ids-lab/blob/main/images/snort-attack.png" alt="Snort IDS Screenshot" width="400"/>  
+  <br/>
+
     
 <h2>👨🏽‍🎓 Certifications</h2>
 
