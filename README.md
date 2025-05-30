@@ -49,6 +49,13 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
   - Deployed Snort on a virtual machine to detect and mitigate live simulated attacks from the TryHackMe challenge. Created and tuned custom IDS rules to identify malicious traffic, and improved detection accuracy through iterative testing.  
   - <img src="https://github.com/zeewilliams/snort-ids-lab/blob/main/images/snort-attack.png" alt="Snort IDS Screenshot" width="400"/>  
   <br/>
+  
+  <!-- 7. Sysmon Windows Event Logs -->
+- <b>Sysmon Windows Event Logs</b>  
+  - [View Repository](https://github.com/zeewilliams/windows-event-logs-lab)  
+  - Investigated Windows Event Logs using Event Viewer, `wevtutil`, and PowerShell to detect signs of PowerShell attacks, group enumeration, and log tampering. Mapped Event IDs to suspicious activity in a simulated enterprise environment.  
+  - <img src="https://raw.githubusercontent.com/zeewilliams/windows-event-logs-lab/main/images/event-viewer.png" alt="Windows Event Viewer Screenshot" width="400"/>  
+  <br/>
 
     
 <h2>👨🏽‍🎓 Certifications</h2>
