@@ -59,7 +59,7 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
   
   <!-- 8. Ransomware Attack Incident Response -->
 - <b>Ransomware Attack Incident Response</b>  
-  - [View Repository](https://github.com/zeewilliams/ransomware-incident-response)  
+  - [View Repository](https://github.com/zeewilliams/ransomware-IR)  
   - Investigated a simulated ransomware attack in TryHackMe’s “Retracted” room using Windows Event Logs and Sysmon. Used Event Viewer to trace file creation events, identify the source of a ransom note (`SOPHIE.txt`), and track malicious process activity tied to a fake antivirus installer (`antivirus.exe`).  
   - <img src="https://raw.githubusercontent.com/zeewilliams/windows-event-logs-lab/main/images/event-viewer.png" alt="Windows Event Viewer Screenshot" width="400"/>  
   <br/>
