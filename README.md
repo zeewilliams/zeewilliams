@@ -54,7 +54,7 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 - <b>Sysmon Windows Event Logs</b>  
   - [View Repository](https://github.com/zeewilliams/sysmon)  
   - Investigated Windows Event Logs using Event Viewer, `wevtutil`, and PowerShell to detect signs of PowerShell attacks, group enumeration, and log tampering. Mapped Event IDs to suspicious activity in a simulated enterprise environment.  
-  - <img src="https://raw.githubusercontent.com/zeewilliams/windows-event-logs-lab/main/images/event-viewer.png" alt="Windows Event Viewer Screenshot" width="400"/>  
+  - <img src="https://github.com/zeewilliams/snort-ids-lab/blob/main/images/snort-attack.png" alt="Snort IDS Screenshot" width="400"/>  
   <br/>
   
   <!-- 8. Ransomware Attack Incident Response -->
