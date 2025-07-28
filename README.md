@@ -66,7 +66,7 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](htt
 
 <!-- 9. Enterprise Payment Portal Integration for City Services -->
 - <b>Project Scope, Gantt Timeline & Recovery Within $105K IT Budget</b>  
-  - [View Repository](https://github.com/zeewilliams/merrilton-project-lab)  
+  - [View Repository](https://github.com/zeewilliams/Project-Management)  
   - Integrated three legacy billing systems—utilities, housing, and code enforcement—into a unified mobile payment portal for a city government. Managed a $105,200 IT labor budget, rebuilt the project schedule, and addressed system incompatibilities, grant deadlines, and reporting gaps through earned value analysis and timeline recovery strategies.  
   - <img src="https://github.com/zeewilliams/merrilton-project-lab/blob/main/gantt-chart.png?raw=true" alt="Gantt Chart Screenshot" width="400"/>  
 <br/>
